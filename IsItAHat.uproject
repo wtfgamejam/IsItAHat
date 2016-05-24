@@ -13,5 +13,8 @@
 			"Name": "Substance",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
 	]
 }
