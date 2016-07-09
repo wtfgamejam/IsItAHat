@@ -6,5 +6,5 @@
 # 0.1.0
 
 * Initial Build
-* Unreal Engine 4.11
+* Unreal Engine 4.11.2
 * Everything Sucks
